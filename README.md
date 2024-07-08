@@ -36,18 +36,23 @@ FoodConnect is a web application designed to facilitate the distribution of left
 
 ## Installation
 
-1. **Clone the repository**:
+1. **steps to run**:
 
    ```sh
+   - clone a repo
    git clone https://github.com/your-username/foodconnect.git
-   cd foodconnect
-cd frontend
-npm install
-cd ../backend
-npm install
-cd backend
-node .\index.js
-cd frontend
-npm start
+   cd foodconnect 
+   - 
+   cd frontend
+   npm install
+
+   cd ../backend
+   npm install
+   
+   cd backend
+   node .\index.js
+   
+   cd frontend
+   npm start
 
 
